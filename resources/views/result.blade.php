@@ -11,8 +11,8 @@
             </div>
         </div>
     </div>
-   
     <div class="row" style="text-align: center;">
+
 
         <div class="col-xs-12 col-sm-12 col-md-12">
             <div class="form-group">
@@ -43,9 +43,9 @@
                   </div>
               </div>
         @endif
-
-      
-
+        <div class="col-md-12" style="text-align: center;">
+          <h2>Terima Kasih</h2>
+        </div>
     </div>
   </div>
 </div>

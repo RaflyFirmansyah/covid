@@ -276,7 +276,7 @@
                     </tr>
                     </tbody>
                 </table>
-                <button type="submit" class="btn btn-primary">Submit</button>
+                <button type="submit" class="btn btn-primary">Cek Hasil</button>
             </form>
             </div>
         </div>

@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Agency - Start Bootstrap Theme</title>
+  <title>Survei Covid-19</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -30,7 +30,7 @@
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll-trigger" href="#page-top">Covid-19</a>
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">Rafly Firmansyah</a>
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         Menu
         <i class="fas fa-bars"></i>
@@ -43,7 +43,10 @@
     <div class="container">
       <div class="intro-text">
         <div class="intro-lead-in">Selamat Datang</div>
-        <div class="intro-heading text-uppercase">Survei Covid-19</div>
+        <div class="intro-heading text-uppercase">Cek Penilaian Resiko 
+        Pribadi Terhadap Corona 
+        Virus (COVID-19)
+         </div>
         <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="survey">Mulai</a>
       </div>
     </div>
