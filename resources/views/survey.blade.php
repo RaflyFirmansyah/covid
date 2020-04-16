@@ -17,7 +17,7 @@
                     <thead align="center">
                         <tr>
                             <th width="1">No</th>
-                            <th>Kegiatan</th>
+                            <th>Kegiatan</th> 
                             <th width="15%">Ya/Tidak</th>
                         </tr>
                     </thead>
